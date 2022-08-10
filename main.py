@@ -3,7 +3,6 @@ import random
 import numpy as np
 
 hel = Turtle()
-# hel.setposition(-100, 150)
 hel.pensize(4)
 hel.speed(0.1)
 hel.shape("circle")
